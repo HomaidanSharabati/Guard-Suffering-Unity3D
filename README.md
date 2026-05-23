@@ -1,4 +1,4 @@
-# Guard Suffering 🛡️
+# Guard Suffering 🛡️⚔️
 
 A 3D third-person action game developed using Unity Engine and C#. 
 
